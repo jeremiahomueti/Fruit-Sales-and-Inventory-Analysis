@@ -1,2 +1,4 @@
 # Sales-and-Inventory-Analysis--Fruits Dataset
-Sales and Inventory Analysis 
+<p>
+<b>Sales and Inventory Analysis - Fruits Dataset</b>
+</p>
